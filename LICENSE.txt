@@ -1,0 +1,22 @@
+Snowingo – Multilingual Word Notebook
+Copyright (c) 2026 Snowingo. All rights reserved.
+
+This software is proprietary. You may download, install and use it, free of
+charge, for your own personal or educational use.
+
+Without prior written permission you may not:
+  - copy, modify, translate, decompile, reverse-engineer or create works
+    based on its code, design, images or text;
+  - redistribute, sell, rent, sublicense or publish it, in whole or in part,
+    including in other extensions, apps or websites.
+
+Share it by linking to the official download page instead:
+https://github.com/ayoubiii2007benh-cyber/snowingo
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+Third-party components keep their own licenses:
+  - vendor/transformers.min.js and the ONNX runtime files: see vendor/LICENSE-transformers.txt
+  - Readex Pro font: see design/fonts/LICENSE-ReadexPro.txt
