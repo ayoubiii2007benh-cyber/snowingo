@@ -20,3 +20,5 @@ OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
 Third-party components keep their own licenses:
   - vendor/transformers.min.js and the ONNX runtime files: see vendor/LICENSE-transformers.txt
   - Readex Pro font: see design/fonts/LICENSE-ReadexPro.txt
+  - PDF.js (vendor/pdfjs): Apache License 2.0, see vendor/pdfjs/LICENSE-pdfjs.txt
+  - Guide background sounds (assets/audio): see assets/audio/LICENSES.md

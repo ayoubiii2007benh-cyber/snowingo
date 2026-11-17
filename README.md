@@ -26,6 +26,8 @@ Works in **Chrome, Brave, Edge, Opera and Vivaldi**.
 
 Your browser may sometimes show a notice about developer-mode extensions. That is normal for extensions installed this way. You can close it.
 
+**PDFs on your computer** (optional): on the extensions page, click **Details** on Snowingo and turn on **Allow access to file URLs**.
+
 ## Update to a new version
 
 Your words stay safe when you update. They are stored in the browser, not in the folder.
@@ -40,9 +42,11 @@ Don't remove the extension and add it again. That would delete your words. To be
 
 - **Save words anywhere**: double-click a word on any page, or right-click → *Add to Snowingo*. The language is detected automatically, and English and Arabic translations are added.
 - **Review so you remember**: spaced repetition, with six ways to practise (flashcards, reverse, typing, multiple choice, listening, fill-the-gap).
-- **Learn from videos**: learning subtitles on YouTube and other players. Click any word for its meaning.
+- **Learn from videos**: learning subtitles on YouTube and other players, using the video's own captions when it has them. Click any word for its meaning.
+- **Read PDFs**: PDFs open in the Snowingo reader, where double-click translates words too. Works with PDFs on your computer as well.
 - **Focus Lock** (optional): when a revision is due, websites first show a short revision screen.
-- **17 animated themes**, light and dark mode.
+- **17 animated themes**, light and dark mode. Everything, including the pop-ups on web pages, follows your theme.
+- **Built-in guide**: a short captioned video and step-by-step tour (English, French, Arabic), in the sidebar.
 - **Your data stays with you**: no account, no server. Export to a file, CSV or Anki.
 
 ![Learning subtitles on a video](images/3-video-subtitles-glacier.png)
